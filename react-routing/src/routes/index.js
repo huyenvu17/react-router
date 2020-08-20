@@ -11,7 +11,7 @@ const routesHome = [
   {
     exact: true,
     path: '/',
-    component: HomeLayout
+    component: HomePage
   },
   {
     exact: false,
